@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Trimitere Date Intre Aplicatii</string>
+    <string name="nume">Nume</string>
+    <string name="prenume">Prenume</string>
+    <string name="btn">Trimite</string>
+</resources>
